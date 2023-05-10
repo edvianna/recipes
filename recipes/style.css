@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(126, 214, 167);
+    font-size: 15px;
+    color: #6d38c1;
+    
+  }
+
+  div{
+    color: blue;
+    font-size: 15px;
+    background-color: #c13838;
+  }
+
+  button{
+    background-color: #c13838;
+  }
